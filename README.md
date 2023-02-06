@@ -22,7 +22,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
  ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=react,vue,python,nodejs,java,mongodb,styledcomponents,tailwind,,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,python,nodejs,java,mongodb,tailwind,,&perline=7)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01B3A0&height=120&section=footer"/>
 
